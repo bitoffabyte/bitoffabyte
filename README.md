@@ -28,7 +28,6 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="bitoffabyte" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" alt="bitoffabyte" height="35" width="35" /></a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bitoffabyte&show_icons=true" alt="bitoffabyte" /> </p>
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoffabyte&show_icons=true&layout=compact"" alt="bitoffabyte" /> </p> -->
 
